@@ -10,3 +10,7 @@ Deep learning - Theano, Keras, ConvNetJS
 Chromium
 Python, C/C++, JavaScript(, C# script for unity)
 
+Interesting Subject:
+1. Deep learning Javascript Library for Mobile Devices
+2. GPU sharing for rendering and computing
+
